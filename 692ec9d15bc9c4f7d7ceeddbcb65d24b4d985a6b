@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ab5087f0_51bc949b",
+        "filename": "BUCK",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1003873
+      },
+      "writtenOn": "2016-11-11T15:37:50Z",
+      "side": 1,
+      "message": "Why are sources not included in the initial commit?",
+      "revId": "692ec9d15bc9c4f7d7ceeddbcb65d24b4d985a6b",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    }
+  ]
+}
